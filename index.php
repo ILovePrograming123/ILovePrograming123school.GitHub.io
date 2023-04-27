@@ -22,8 +22,8 @@ body{
 <div>
 	<h2 style="text-align: center; font-family: monospace; font-size: 30px; margin-top: 15px;margin-bottom: 15;">Login</h2>
 	<hr></hr>	
-	<input type="text" name="username" style="height: 25px; width: 220px;margin-left: 10;margin-bottom: 15px;></input>
-	<label for="username"style="margin-top: 5px;margin-left: 10px;margin-right: 5;font-family: monospace;font-size: 20px;margin-bottom: 10;">Username:</label>
+	<input type="text" name="username" style="height: 25px; width: 220px;margin-left: 10;margin-bottom: 15px;">
+	<label for="username" style="margin-top: 5px;margin-left: 10px;margin-right: 5;font-family: monospace;font-size: 20px;margin-bottom: 10;">Username:</label>
 	<input type="text" name="password" style="height: 25px; width: 220px;margin-left: 10">
 	<label for="password" style="margin-top: 5px;margin-left: 10px;margin-right: 5;font-family: monospace;font-size: 20px;margin-bottom: 10;">Password:</label>
 	
