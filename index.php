@@ -28,7 +28,6 @@ body{
 	<input type="text" name="password" style="height: 25px; width: 220px;margin-left: 10">
 </div>
   <?php
-	echo <button>Submit</button>;
   ?>
 </body>
 </html>
