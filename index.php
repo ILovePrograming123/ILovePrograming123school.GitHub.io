@@ -27,7 +27,5 @@ body{
 	<p style="margin-top: 5px;margin-left: 10px;margin-right: 5;font-family: monospace;font-size: 20px;margin-bottom: 10;">Password:</p>
 	<input type="text" name="password" style="height: 25px; width: 220px;margin-left: 10">
 </div>
-  <?php
-  ?>
 </body>
 </html>
