@@ -4,7 +4,7 @@
 div{
   background-color: white;
   width: 250px;
-  height: 400px;
+  height: 250px;
   border: 3px solid white;
   margin-top: 100px;
   margin-left: auto;
